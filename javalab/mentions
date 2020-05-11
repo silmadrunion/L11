@@ -1,0 +1,9 @@
+when trying to put the maven dependency for SpringFox so that I can use swagger, namely
+<dependency>
+    <groupId>io.springfox</groupId>
+    <artifactId>springfox-swagger2</artifactId>
+    <version>2.9.2</version>
+</dependency>
+
+I ran into an invalid classpath error; same happens with spring-security for https services or jwt tokens, and I can not figure out where exactly the issue is
+The whole application can no longer work if I try it out, and I spent too much time even fixing it back into a working state (lesson learned about backups)

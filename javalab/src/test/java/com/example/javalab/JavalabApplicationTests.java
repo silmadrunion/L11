@@ -1,10 +1,10 @@
-package com.example.l11;
+package com.example.javalab;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class L11ApplicationTests {
+class JavalabApplicationTests {
 
     @Test
     void contextLoads() {
